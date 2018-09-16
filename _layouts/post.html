@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="container-fluid bg-light pt-3 pb-2">
+    <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between">
+      <h1>{{ page.title | escape }}</h1>
+      <strong class="text-secondary">{{ page.date | date: "%B %-d, %Y" }}</strong>
+    </div>
+  </div>
+
+  <div>
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
