@@ -2,11 +2,10 @@
 layout:     post
 title:      Scapegoat Plateau Backpack
 date:       2018-07-23
-image_path: /montventure/assets/images/scapegoat/
+image_path: /assets/images/scapegoat/
 ---
-
 <div>
-  <img src="{{ page.image_path }}audrey-ridge-walk.jpg">
+  <img src="{{ page.image_path | append: "audrey-ridge-walk.jpg" | relative_url }}">
 </div>
 
 For our 3rd annual father daughter backpack Audrey and I headed to the Scapegoat Wilderness with food for five days and a plan to hike alongside and hopefully up onto the Scapegoat plateau. The highlands of the plateau hover around 8,000 feet high, are guarded by towering vertical cliffs, and capped by Scapegoat Mountain.
@@ -15,10 +14,10 @@ We started from the Crown Mountain trailhead and made quick progress on a good t
 
 <div class="row no-gutters">
   <div class="col-md-6">
-    <img src="{{ page.image_path }}straight-creek-camp.jpg">
+    <img src="{{ page.image_path | append: "straight-creek-camp.jpg" | relative_url }}">
   </div>
   <div class="col-md-6">
-    <img src="{{ page.image_path }}log-crossing.jpg">
+    <img src="{{ page.image_path | append: "log-crossing.jpg" | relative_url }}">
   </div>
 </div>
 
