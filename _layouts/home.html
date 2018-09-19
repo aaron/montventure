@@ -2,17 +2,6 @@
 layout: default
 image_path: /assets/images/home/
 ---
-<!-- <div class="jumbotron jumbotron-fluid">
-  <div class="container-fluid">
-    <h1><a href="{{ '/' | relative_url }}">Montventure</a></h1>
-    <p class="lead">Outdoor adventures in Montana and beyond</p>
-  </div>
-</div> -->
-
-<!-- <div>
-  <img src="{{ '/assets/images/home/waterton-lake-silhouette.jpg' | relative_url }}" class="img-fluid">
-</div> -->
-
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -29,7 +18,7 @@ image_path: /assets/images/home/
             {{ post.title | escape }}
           </h3>
           <div class="post-meta">
-            {{ post.date | date: "%B %-d, %Y" }}
+            {{ post.date | date: site.date_format }}
           </div>
         </div>
         {{ post.excerpt }}
@@ -37,5 +26,4 @@ image_path: /assets/images/home/
       {%- endfor -%}
     </div>
   {%- endif -%}
-
 </div>

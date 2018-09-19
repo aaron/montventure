@@ -6,7 +6,7 @@ layout: default
   <div class="container-fluid bg-light pt-3 pb-2">
     <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between">
       <h1>{{ page.title | escape }}</h1>
-      <strong class="text-secondary">{{ page.date | date: "%B %-d, %Y" }}</strong>
+      <strong class="text-secondary">{{ page.date | date: site.date_format }}</strong>
     </div>
   </div>
 
