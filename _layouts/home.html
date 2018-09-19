@@ -1,0 +1,29 @@
+---
+layout: default
+image_path: /assets/images/home/
+---
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <div class="list-group list-group-flush">
+      {%- for post in site.posts -%}
+      <a href="{{ post.url | relative_url }}" class="post list-group-item list-group-item-action">
+        <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between">
+          <h3>
+            {{ post.title | escape }}
+          </h3>
+          <div class="post-meta">
+            {{ post.date | date: site.date_format }}
+          </div>
+        </div>
+        {{ post.excerpt }}
+      </a>
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+</div>

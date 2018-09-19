@@ -3,6 +3,6 @@
     Montventure
   </a>
   <span class="navbar-text">
-    {{ page.title | escape }}
+    {{ page.title | default: site.description | escape }}
   </span>
 </nav>
