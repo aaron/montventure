@@ -55,7 +55,7 @@ As we descended toward the cliffs cairns appeared helping guide the way and we c
   <img src="{{ page.image_path | append: "green-fork.jpg" | relative_url }}">
 </div>
 
-From the lake we climbed up a trail heading for Halfmoon Basin. After a long day on our feet the climb up to the ridge seemed to drag on. But we were both in good spirits and were rewarded with views of the vertical cliff walls as we descended down to Halfmoon Creek. This is a popular area and I thought we would encounter our first people of the trip but was quite surprised to find the established camp sites all empty. We found a quiet place by the creek and made dinner before deciding if we would camp or continue farther up the trail. We took our time eating, re-filled our water, and then decided to walk a bit more. With dinner done and full water bottles we were free to camp anywhere that looked like a nice spot. We left the creek and entered a burned area where the trees were completely absent allowing for great views of the Halfmoon Park cliffs with the sun about to descending behind them. Just short of the pass we spotted an amazing site in a small meadow just below the cliffs. The area was surrounded by burned snags but with our tent in the middle of the little clearing it was unlikely that any of them would reach us if they fell. It was a warm and breezy night and we both slept well.
+From the lake we climbed up a trail heading for Halfmoon Basin. After a long day on our feet the climb up to the ridge seemed to drag on. But we were both in good spirits and were rewarded with views of the vertical cliff walls as we descended down to Halfmoon Creek. This is a popular area and I thought we would encounter our first people of the trip but was quite surprised to find the established camp sites all empty. We found a quiet place by the creek and made dinner before deciding if we would camp or continue farther up the trail. We took our time eating, re-filled our water, and then decided to walk a bit more. With dinner done and full water bottles we were free to camp anywhere that looked like a nice spot. We left the creek and entered a burned area where the trees were completely absent allowing for great views of the Halfmoon Park cliffs with the sun descending behind them. Just short of the pass we spotted an amazing site in a small meadow just below the cliffs. The area was surrounded by burned snags but with our tent in the middle of the little clearing it was unlikely that any of them would reach us if they fell. It was a warm and breezy night and we both slept well.
 
 <div class="row no-gutters">
   <div class="col-md-6">
@@ -95,3 +95,5 @@ Audrey and I had an amazing trip and wonderful time together. Audrey has come a 
 <div>
   <img src="{{ page.image_path | append: "meadow.jpg" | relative_url }}">
 </div>
+
+<iframe width="100%" height="500px" src="https://caltopo.com/m/9PQE"></iframe>
