@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      Scapegoat Plateau Backpack
-date:       2018-07-23
 image_path: /assets/images/scapegoat/
 tags:       Backpacking Scapegoat
 caltopo:    https://caltopo.com/m/9PQE

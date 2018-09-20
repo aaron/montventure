@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      Bass Creek Ski Tour
-date:       2017-01-29
 image_path: /assets/images/bass-creek-ski-tour/
 tags:       Skiing Bitterroot
 caltopo:    https://caltopo.com/m/HJGU

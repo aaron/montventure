@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      Jewel Basin Backpack
-date:       2016-08-24
 image_path: /assets/images/jewel-basin-backpack/
 tags:       Backpacking JewelBasin
 ---
