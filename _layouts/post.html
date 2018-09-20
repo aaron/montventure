@@ -12,6 +12,10 @@ layout: default
 
   <div>
     {{ content }}
+
+    {%- if page.caltopo -%}
+      <iframe width="100%" height="500px" src="{{ page.caltopo }}"></iframe>
+    {%- endif -%}
   </div>
 
   {%- if site.disqus.shortname -%}

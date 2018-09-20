@@ -4,6 +4,7 @@ title:      Scapegoat Plateau Backpack
 date:       2018-07-23
 image_path: /assets/images/scapegoat/
 tags:       Backpacking Scapegoat
+caltopo:    https://caltopo.com/m/9PQE
 ---
 {% include image.html image="audrey-ridge-walk.jpg" %}
 
@@ -82,5 +83,3 @@ Surprisingly, the Double Falls campground was empty. I could hear water rushing 
 Audrey and I had an amazing trip and wonderful time together. Audrey has come a long ways since we started doing these trips two years ago. She can now move at a good pace all day long. I'm already thinking about ideas for next summer!
 
 {% include image.html image="meadow.jpg" %}
-
-<iframe width="100%" height="500px" src="https://caltopo.com/m/9PQE"></iframe>
