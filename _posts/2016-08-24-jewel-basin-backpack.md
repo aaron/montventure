@@ -105,9 +105,9 @@ We had gained the ridge but had to drop down the notch and climb up the other si
   caption = "Flathead Valley from Jewel Basin"
 %}
 
-{% include figure.html
-  url     = "https://montventure.files.wordpress.com/2016/08/dsc09105.jpg"
-  caption = "Jewel Basin, Great Bear Wilderness, and Glacier National Park"
-%}
+{% include image.html image="jewel-basin-and-glacier.jpg" %}
+<figcaption class="figure-caption text-center">
+  Jewel Basin, Great Bear Wilderness, and Glacier National Park
+</figcaption>
 
 The final downhill miles passed quickly and before long we were back at the Camp Misery trailhead. It was a great way to end the summer.
