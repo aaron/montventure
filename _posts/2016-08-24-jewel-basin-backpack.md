@@ -16,11 +16,16 @@ We started from the Camp Misery trailhead and headed for the pass to Picnic Lake
 
 The trail density and numerous lakes in the core part of Jewel Basin made for rewarding hiking. We were never more than a mile to two from the next junction or lake and frequently less. From the pass we quickly passed by Picnic Lakes and decided to continue on to camp at Black Lake. However, we mistakenly took an unofficial trail on the far side of Picnic lakes which initially followed a mellow stream but soon started to drop steeply down to Black Lake. The route was challenging at times but also quite scenic with views of the lake below and fields of wildflowers lining both sides of the creek.
 
-{% include image.html image="flower.jpg" %}
+<div class="row no-gutters">
+  <div class="col-md-6">
+    {% include image.html image="flower.jpg" %}
+  </div>
+  <div class="col-md-6">
+    {% include image.html image="black-lake.jpg" %}
+  </div>
+</div>
 
 We managed to reach Black Lake relatively unscathed. Harper received a handful of prickers in her hand when she grabbed onto a bush while trying to navigate a steep section. We bushwhacked our way around the lake to the outlet where the official trail is located and had our pick of two established campsites. We chose the one right by the outlet with the soothing sounds of running water. The campsite was surrounded by huckleberry bushes and the kids soon had a bagful of ripe berries to supplement our breakfast the next day. They discovered that Mochi liked huckleberries and taught her to eat them right off the bushes, which seemed appropriate given her resemblance to a small black bear.
-
-{% include image.html image="black-lake.jpg" %}
 
 After dinner and some campfire time we retired for the night. Julie and the kids slept in our tent, while Michael and I were in bivys. It was comforting having a dog along in an area that has bears (black and grizzly) and mountain lions. I slept a little easier knowing that if anything came near Mochi would wake us up with a bark. Overnight she divided her time between sleeping and patrolling the camp. I slept with my bivy open which meant I got a lick on the face whenever she passed by on patrol.
 
@@ -28,11 +33,7 @@ After dinner and some campfire time we retired for the night. Julie and the kids
 
 In the morning we debated about staying in the same camp another night, but decided to pack things up and head down the trail to explore more of the area. We soon entered the Jewel lakes area and took the scenic slightly longer route visiting all the lakes in the basin. Harper had been talking about swimming in the lakes since the beginning of the trip and soon found one to her liking. Michael, Audrey, and I all joined her which kicked off a lake swimming competition. We decided you could get one point per lake per day. So two swims in one lake in one day would only be one point. But two swims in one lake on different days would be two points.
 
-{% include image.html image="climbing-trail-above-blackfoot-lake.jpg" %}
-
 From the Jewel lakes we made our way toward Blackfoot Lake. The gradually descending trail make for fairly easy hiking but the numerous thimbleberry bushes slowed us down. The entire hillside seemed to covered with ripe thimbleberries. Zach and Julie reached Blackfoot Lake first and Zach swam gaining a point which tied him with everyone who swam that morning. We took a leisurely lunch break while the kids intermittently snacked and played with Mochi in the water. Audrey and Harper decided to swim too putting them in the lead with two points each.
-
-We left Blackfoot Lake with a possible goal of heading to Wildcat Lake for the night. But the long slow climb back toward the ridge changed the minds of the adults. The kids were set on going to Wildcat and were not swayed by how far it was, or that we would have to turn around and retrace our steps in the morning. But parents get final say so we headed south for the Twin Lakes with some grumbling from the troops. We were soon traversing a steep slope above two beautiful lakes tucked into a small basin below us and Wildcat Lake was forgotten. Two lakes means two points! The trail dropped steadily down to the level of the lakes and we found a beautiful grassy campsite on a strip of land between the two lakes.
 
 <div class="row no-gutters">
   <div class="col-md-6">
@@ -42,6 +43,8 @@ We left Blackfoot Lake with a possible goal of heading to Wildcat Lake for the n
     {% include image.html image="twin-lakes.jpg" %}
   </div>
 </div>
+
+We left Blackfoot Lake with a possible goal of heading to Wildcat Lake for the night. But the long slow climb back toward the ridge changed the minds of the adults. The kids were set on going to Wildcat and were not swayed by how far it was, or that we would have to turn around and retrace our steps in the morning. But parents get final say so we headed south for the Twin Lakes with some grumbling from the troops. We were soon traversing a steep slope above two beautiful lakes tucked into a small basin below us and Wildcat Lake was forgotten. Two lakes means two points! The trail dropped steadily down to the level of the lakes and we found a beautiful grassy campsite on a strip of land between the two lakes.
 
 Zach swam in the larger (and colder) lake visible from our campsite while Audrey and Harper swam in both lakes!  With the sun setting behind the ridge they all ended up quite chilled and put on their puffy coats and huddled under sleeping bags to warm themselves. We had dinner and even some freeze dried apple crisp for dessert before heading to bed. Just as the kids were getting settled it began to rain lightly. My bivy has mesh over the face and is meant to be used under a tarp or tucked up under a tree. So I quickly grabbed my things and squeezed into the tent. It was a little cramped but I was able to setup perpendicular to everyone else by the door. Around 1am I woke up very warm, poked my head outside, and spotted the milky way overhead. I moved back outside and with a few hours sleep in me laid there for what felt like a long while gazing at the star speckled night sky.
 
