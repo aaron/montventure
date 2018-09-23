@@ -4,6 +4,8 @@ title:      Jewel Basin Backpack
 image_path: /assets/images/jewel-basin-backpack/
 tags:       Backpacking JewelBasin
 ---
+{% include image.html image="mount-aeneas-ridge.jpg" %}
+
 With school starting next week we packed up and headed out for one more summer adventure. We were joined by our friends Michael and Harper and their dog Mochi. This was our first trip to Jewel Basin and I cannot wait to return and explore more of the area.
 
 {% include figure.html
