@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Jewel Basin Backpack
+summary:    A two family end of summer backpacking trip to Jewel Basin in the northern Swan Range
 image_path: /assets/images/jewel-basin-backpack/
 tags:       Backpacking JewelBasin
 ---

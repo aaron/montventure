@@ -21,6 +21,13 @@ image_path: /assets/images/home/
             {{ post.date | date: site.date_format }}
           </div>
         </div>
+
+        {%- if post.summary -%}
+          <p class="lead text-muted px-0 mt-0">
+            {{ post.summary }}
+          </p>
+        {%- endif -%}
+
         {{ post.excerpt }}
       </a>
       {%- endfor -%}
