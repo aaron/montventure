@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      Scapegoat Plateau Backpack
-summary:    Audrey and Aaron spend five days hiking a 50 mile loop in the Scapegoat Wilderness and traverse the Scapegoat Plateau
-image_path: /assets/images/scapegoat/
-tags:       Backpacking Scapegoat
-caltopo:    https://caltopo.com/m/9PQE
+layout:       post
+title:        Scapegoat Plateau Backpack
+description:  Audrey and Aaron spend five days hiking a 50 mile loop in the Scapegoat Wilderness and traverse the Scapegoat Plateau
+image_path:   /assets/images/scapegoat/
+tags:         Backpacking Scapegoat
+caltopo:      https://caltopo.com/m/9PQE
 ---
 {% include image.html image="audrey-ridge-walk.jpg" %}
 

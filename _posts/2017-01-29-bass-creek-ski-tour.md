@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      Bass Creek Ski Tour
-summary:    Solo ski tour up Bass Creek in the Bitterroot Mountains
-image_path: /assets/images/bass-creek-ski-tour/
-tags:       Skiing Bitterroot
-caltopo:    https://caltopo.com/m/HJGU
+layout:       post
+title:        Bass Creek Ski Tour
+description:  Solo ski tour up Bass Creek in the Bitterroot Mountains
+image_path:   /assets/images/bass-creek-ski-tour/
+tags:         Skiing Bitterroot
+caltopo:      https://caltopo.com/m/HJGU
 ---
 {% include image.html image="bass-peak-panorama.jpg" %}
 

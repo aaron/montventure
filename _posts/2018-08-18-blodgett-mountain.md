@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      Blodgett Mountain
-summary:    Zach and Aaron summit Blodgett Mountain on a three day backpack with sun, rain, and a forest fire
-image_path: /assets/images/blodgett-mountain/
-tags:       Backpacking Bitterroot
-caltopo:    https://caltopo.com/m/KJ00
+layout:       post
+title:        Blodgett Mountain
+description:  Zach and Aaron summit Blodgett Mountain on a three day backpack with sun, rain, and a forest fire
+image_path:   /assets/images/blodgett-mountain/
+tags:         Backpacking Bitterroot
+caltopo:      https://caltopo.com/m/KJ00
 ---
 
 {% include image.html image="blodgett-panorama.jpg" %}

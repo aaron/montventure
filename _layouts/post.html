@@ -9,9 +9,9 @@ layout: default
       <strong class="text-secondary">{{ page.date | date: site.date_format }}</strong>
     </div>
 
-    {%- if page.summary -%}
+    {%- if page.description -%}
       <p class="lead text-muted px-0 mt-0">
-        {{ page.summary }}
+        {{ page.description }}
       </p>
     {%- endif -%}
   </div>
