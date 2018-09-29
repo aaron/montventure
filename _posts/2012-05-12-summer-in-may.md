@@ -1,8 +1,5 @@
 ---
-layout:       post
-title:        Summer in May
 description:  A family trip to Glacier National Park and the inspiration for the Montventure blog
-image_path:   /assets/images/summer-in-may/
 tags:         GlacierNationalPark
 ---
 {% include image.html image="lake-mcdonald.jpg" %}
