@@ -1,5 +1,5 @@
 ---
-description:  A family trip to Glacier National Park and the inspiration for the Montventure blog
+description:  The kids and I join my brother and his friend in Glacier for for Memorial Day weekend and experience a return to winter weather
 tags:         GlacierNationalPark
 ---
 {% include image.html image="snow-on-mountain.jpg" %}
