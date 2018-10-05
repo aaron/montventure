@@ -1,6 +1,6 @@
 ---
 description:  Audrey and Aaron spend five days hiking a 50 mile loop in the Scapegoat Wilderness and traverse the Scapegoat Plateau
-image:        /assets/images/scapegoat/audrey-ridge-walk.jpg
+image:        /assets/images/scapegoat-plateau-backpack/audrey-ridge-walk.jpg
 tags:         Backpacking Scapegoat
 caltopo:      https://caltopo.com/m/9PQE
 ---
