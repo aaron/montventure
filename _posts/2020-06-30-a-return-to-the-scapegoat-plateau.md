@@ -9,4 +9,4 @@ caltopo:      https://caltopo.com/m/KJ00
 
 Our big family trip this year was supposed to be a traverse of the Chinese Wall in the Bob Marshall Wilderness. However, two days of pouring rain and unseasonably cold temperatures forced us to the delay the start and left us without enough time to complete our planned trip. We made a last minute decision to go to the Scapegoat Plateau instead. Following the route Audrey and I had done two years earlier we could complete in five days and get back in time to meet Aaron's mom at the airport.
 
-The rainy weather had passed but temperatures were still surprisingly cool for the first two days. 
+The rainy weather had passed but temperatures were still surprisingly cool for the first two days.
