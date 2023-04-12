@@ -202,7 +202,6 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-    language_server-protocol (3.17.0.3)
     liquid (4.0.4)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -222,7 +221,6 @@ GEM
       sawyer (~> 0.9)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    prettier_print (1.2.0)
     public_suffix (4.0.7)
     racc (1.6.2)
     rb-fsevent (0.11.2)
@@ -230,10 +228,6 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.5)
     rouge (3.26.0)
-    ruby-lsp (0.3.8)
-      language_server-protocol (~> 3.17.0)
-      sorbet-runtime
-      syntax_tree (>= 5.0.0, < 6)
     ruby2_keywords (0.0.5)
     rubyzip (2.3.2)
     safe_yaml (1.0.5)
@@ -247,9 +241,6 @@ GEM
       faraday (>= 0.17.3, < 3)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
-    sorbet-runtime (0.5.10666)
-    syntax_tree (5.3.0)
-      prettier_print (>= 1.2.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     typhoeus (1.4.0)
@@ -269,7 +260,6 @@ DEPENDENCIES
   github-pages
   jekyll-compose
   jekyll-feed
-  ruby-lsp
   webrick
 
 BUNDLED WITH
